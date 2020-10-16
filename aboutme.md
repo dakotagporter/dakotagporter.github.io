@@ -4,7 +4,7 @@ title: Who Am I?
 subtitle: A friend for all.
 ---
 
-[Skyline]('/assets/img/
+[Skyline]('/assets/img/IMG_7443.JPG')
 
 My name is Dakota Porter. I have the following qualities:
 
