@@ -12,4 +12,13 @@ The crisp and refreshing taste of an ice cold brew is unlike any other beverage 
 
 ![Flight](/assets/img/national-beer-day-ipa.jpg){: .mx-auto.d-block :}
 
-## Header
+## What do we want to know?
+
+The self-proclaimed "go-to resource for beer", a website known as [Beer Advocates](https://www.beeradvocate.com/), contains all your resources for beer descriptions and discussions. Even you can take part in the brawl of the brews. Beer Advocates is the home for millions of ratings and reviews on any beer you could possibly imagine.
+
+I took just a small sample of that data to create a few calculations of my own. The dynamicism of data that can be squeezed out of a handful of wheat-fueled evaluations is quite interesting. In all seriousness, however, I truly wonder if the trends of the beer world are actually true. Are IPA's really the most sought after beers? Does a beer's taste (seemingly it's most controversial property) actually influence how someone rates or reviews a beer overall? How confident are we that we are drinking as much alcohol as we think we are?
+
+## The Bitter Results
+
+To figure this out, I gathered a [dataset](https://www.kaggle.com/rdoume/beerreviews) from Beer Advocates containing just under 1.6 million reviews on miscellaneous beers from around 5,000 different breweries and immediately 'hopped' into my work. I conducted multiple tests to answer some of these questions. My findings caught me off guard yet intrigued me to no end.
+![Review_Count]()
