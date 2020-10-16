@@ -4,6 +4,8 @@ title: Who Am I?
 subtitle: A friend for all.
 ---
 
+[Skyline]('/assets/img/
+
 My name is Dakota Porter. I have the following qualities:
 
 - I rock a great mustache
