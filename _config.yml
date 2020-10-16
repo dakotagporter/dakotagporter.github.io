@@ -49,6 +49,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
   instagram: its_dakota_btw
+  medium: dakotap3045
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -73,6 +74,7 @@ share-links-active:
   facebook: true
   linkedin: true
   instagram: true
+  medium: true
   github: true
   vk: false
 
@@ -112,7 +114,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/boardwalk.png"
+#page-img: "/assets/img/boardwalk.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 # mobile-theme-col: "#0085A1"
