@@ -21,4 +21,10 @@ I took just a small sample of that data to create a few calculations of my own. 
 ## The Bitter Results
 
 To figure this out, I gathered a [dataset](https://www.kaggle.com/rdoume/beerreviews) from Beer Advocates containing just under 1.6 million reviews on miscellaneous beers from around 5,000 different breweries and immediately 'hopped' into my work. I conducted multiple tests to answer some of these questions. My findings caught me off guard yet intrigued me to no end.
-![Review_Count]()
+
+![Review_Count](https://github.com/dakotagporter/dakotagporter.github.io/blob/master/assets/img/review_count.png)
+
+Finding the most revered style of beer seemed like the logical place to start. Filtering through all of the data, the classic IPA brought a shout out. The graph on the left shows the top 10 beer styles that had the highest review count from this dataset. Out of these elite chart-busters,  it's clear that IPA's claim top trumps. The American IPA and the American Double IPA make up a whopping 13.1% of all reviews from this dataset. Now, if you're anything like me, that news is not surprising but is just asking for further evaluation on each review on these piney pints. India Pale Ale's are definitely not my cup of beer but, according to my conclusions thus far, I may be missing out.
+
+The review process for Beer Advocates allows for a half or full star rating from 1 to 5 stars for the chosen beer. I devised a test to see if each person's overall score was usually the same as how they rated the beer's taste. By analyzing reviews on only American IPA's, I could try to determine if the taste scores were high or low in respect to the overall rating of the beer itself.
+
