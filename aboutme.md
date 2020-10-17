@@ -5,7 +5,7 @@ subtitle: A friend for all.
 ---
 ---
 
-![Skyline](https://github.com/dakotagporter/dakotagporter.github.io/blob/master/assets/img/IMG_7443.JPG){: .mx-auto.d-block :}
+![Skyline](/assets/img/IMG_7443.JPG){: .mx-auto.d-block :}
 
 ---
 ### My Story
