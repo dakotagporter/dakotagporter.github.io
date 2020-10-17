@@ -33,7 +33,7 @@ The review process for Beer Advocates allows for a half or full star rating from
 Many of the breweries from the dataset had multiple reviews of the same beer. For this test, I chose only the breweries with over 1,000 reviews on their American IPA to make sure there would be enough observations to find a solid average. I assumed that, in general, the average overall score for each beer would be about the same as the average score given for it's taste. However, as I mentioned earlier, my results were a surprise. I found that the average scores for the two categories were not the same. I guess branching out may not be so bad after all. If people agree that the taste is great but overall feel like the rating is low, there may at least be a chance that I can add a new brew to my repertoire.
 
 {: .box-note}
-**Note:** "Whoever drinks beer, he is quick to sleep; whoever sleeps long, does not sin; whoever does not sin, enters Heaven! Thus, let us drink beer!" - Martin Luther
+**Quote:** "Whoever drinks beer, he is quick to sleep; whoever sleeps long, does not sin; whoever does not sin, enters Heaven! Thus, let us drink beer!" - Martin Luther
 
 
 This well-rounded German gentleman has definitely got the idea. However, I'm not so sure Martin Luther had the technology in his time to elaborate on his hypothesis. Instead, let me see what I can come up with.
