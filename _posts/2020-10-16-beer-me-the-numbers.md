@@ -47,7 +47,7 @@ Whether, we are told, or just want to believe, our consumption of alcohol per dr
 
 I took a list of 104 different styles of beer from the data to calculate an average abv content across the full range of recipes. The graph above shows the distribution of the alcohol content for each kind of beer. It's clear to see that most of the beers have an abv percentage of around 5%. At first glance, this boosts our confidence that we are officially consuming a 'healthy' amount of alcohol. However, when we take into consideration all the beers with an abv higher than 5%, our mean (or average) abv is pulled further to the right. In calculation, I found the true mean to be between 6.04% and 6.06%.
 
-The figure on the left is a portion of the graph above that has been magnified to see the range (the space between the red lines) where most of the average abv contents will fall. After a given estimate of 4.5%, I think we all might want to pay a little more attention to the label on the can next time we crack open a cold one. Although it may seem like 5% beers are more common, you may most likely find yourself sipping on a spikier brew than you expected.
+The second figure is a portion of the graph above that has been magnified to see the range (the space between the red lines) where most of the average abv contents will fall. After a given estimate of 4.5%, I think we all might want to pay a little more attention to the label on the can next time we crack open a cold one. Although it may seem like 5% beers are more common, you may most likely find yourself sipping on a spikier brew than you expected.
 
 **Check Please**
 
