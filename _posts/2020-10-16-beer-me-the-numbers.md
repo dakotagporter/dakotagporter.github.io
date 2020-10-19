@@ -16,7 +16,7 @@ The crisp and refreshing taste of an ice cold brew is unlike any other beverage 
 
 The self-proclaimed "go-to resource for beer", a website known as [Beer Advocates](https://www.beeradvocate.com/), contains all your resources for beer descriptions and discussions. Even you can take part in the brawl of the brews. Beer Advocates is the home for millions of ratings and reviews on any beer you could possibly imagine.
 
-I took just a small sample of that data to create a few calculations of my own. The dynamicism of data that can be squeezed out of a handful of wheat-fueled evaluations is quite interesting. In all seriousness, however, I truly wonder if the trends of the beer world are actually true. Are IPA's really the most sought after beers? Does a beer's taste (seemingly it's most controversial property) actually influence how someone rates or reviews a beer overall? How confident are we that we are drinking as much alcohol as we think we are?
+I took just a small sample of that data to create a few calculations of my own. The dynamism of data that can be squeezed out of a handful of wheat-fueled evaluations is quite interesting. In all seriousness, however, I truly wonder if the trends of the beer world are actually true. Are IPA's really the most sought after beers? Does a beer's taste (seemingly it's most controversial property) actually influence how someone rates or reviews a beer overall? How confident are we that we are drinking as much alcohol as we think we are?
 
 ## The Bitter Results
 
