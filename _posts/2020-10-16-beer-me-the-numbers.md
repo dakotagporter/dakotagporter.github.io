@@ -24,7 +24,9 @@ To figure this out, I gathered a [dataset](https://www.kaggle.com/rdoume/beerrev
 
 ![Review_Count](/assets/img/review_count.png)
 
-Finding the most revered style of beer seemed like the logical place to start. Filtering through all of the data, the classic IPA brought a shout out. The graph on the left shows the top 10 beer styles that had the highest review count from this dataset. Out of these elite chart-busters,  it's clear that IPA's claim top trumps. The American IPA and the American Double IPA make up a whopping 13.1% of all reviews from this dataset. Now, if you're anything like me, that news is not surprising but is just asking for further evaluation on each review on these piney pints. India Pale Ale's are definitely not my cup of beer but, according to my conclusions thus far, I may be missing out.
+Finding the most revered style of beer seemed like the logical place to start. Filtering through all of the data, the classic IPA brought a shout out. The graph on the left shows the top 10 beer styles that had the highest review count from this dataset. Out of these elite chart-busters,  it's clear that IPA's claim top trumps. The American IPA and the American Double IPA make up a whopping 13.1% of all reviews from this dataset. Now, if you're anything like me, that news is not surprising but is just asking for further evaluation on each review on these piney pints. India Pale Ale's are definitely not my cup of beer but, according to my conclusions thus far, I may be missing out. 
+
+**A Tasty Surprise**
 
 The review process for Beer Advocates allows for a half or full star rating from 1 to 5 stars for the chosen beer. I devised a test to see if each person's overall score was usually the same as how they rated the beer's taste. By analyzing reviews on only American IPA's, I could try to determine if the taste scores were high or low in respect to the overall rating of the beer itself.
 
@@ -47,3 +49,6 @@ I took a list of 104 different styles of beer from the data to calculate an aver
 
 The figure on the left is a portion of the graph above that has been magnified to see the range (the space between the red lines) where most of the average abv contents will fall. After a given estimate of 4.5%, I think we all might want to pay a little more attention to the label on the can next time we crack open a cold one. Although it may seem like 5% beers are more common, you may most likely find yourself sipping on a spikier brew than you expected.
 
+**Check Please**
+
+In conclusion, let's just remind ourselves that when a beer is put in your hand, just drink it. However, the next time that one of these cool, crisp beverages slides down your throat, maybe you can have a little more insight as to how the trends of the beer world hold up. IPA's seem to top the charts but can you really trust what other people say? Or do you just have to start a tab and find out on your own?
