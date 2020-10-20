@@ -33,11 +33,10 @@ To start off testing my hypotheses, I wanted to see if there was some sort of co
 Many of the breweries from the dataset had multiple reviews of the same beer. I chose only the breweries with over 1,000 reviews on their American IPA to make sure there would be enough observations to retrieve a solid average. I assumed that, in general, the average overall score for each beer would be about the same as the average score given for it's taste. However, compared to earlier, my results were shocking this time. I found that **no** statistically significant correlation existed between the two categories. I guess these people might be trustworthy after all. If they can agree that the taste is great but overall feel like the rating is low, there may at least be a chance that I can add a new brew to my repertoire.
 
 **REVIEWING UNDER THE INFLUENCE?**
+
 Taste ratings have been clearly influential in deciding whether or not to trust inebriated and opinionated individuals. However, alcohol content is another heavily debated aspect of beer culture. For this second test (now a one-sample t-test), does calculation live up to expectation? Each beer in this dataset contains a respective abv percentage (alcohol by volume, if you don't already know). If we look at [Live Science](https://www.livescience.com/32735-how-much-alcohol-is-in-my-drink.html#:~:text=On%20average,%20the%20ABV%20for,how%20each%20beverage%20is%20made.), we are told that an average 12oz beer has an abv of 4.5%.
 
-![ABV graph](/assets/img/abv.png)
-
-![ABV zoom](/assets/img/abv_zoom.png) 
+![ABV graph](/assets/img/abv.png) ![ABV zoom](/assets/img/abv_zoom.png) 
 
 I took a list of 104 different styles of beer from the data to calculate an average abv content across the full range of recipes. The graph above shows the distribution of the alcohol content for each kind of beer. It's clear to see that most of the beers have an abv percentage of around 5%. This would closely line up with the original hypothesis. However, when we take into consideration all the beers with an abv higher than 5%, our mean (or average) abv is pulled further to the right. In calculation, the true mean is found to be between 6.04% and 6.06%.
 
