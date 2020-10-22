@@ -45,3 +45,5 @@ The second figure is a portion of the graph above that has been magnified to see
 **CHECK PLEASE**
 
 In conclusion, let's just remind ourselves that when a beer is put in your hand, just drink it. However, the next time that one of these cool, crisp beverages slides down your throat, maybe you can have a little more insight as to how the trends of the beer world hold up. IPA's seem to top the charts and alcohol-inspired analyses may not get you what you want. So can you really trust what other people say? Or do you just have to start a tab and find out on your own?
+
+Check the code [here](https://colab.research.google.com/drive/19Q006adU-JtmYUma1YYpsXMoga1x3wVL?usp=sharing)
