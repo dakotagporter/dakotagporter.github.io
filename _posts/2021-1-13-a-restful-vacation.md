@@ -32,13 +32,13 @@ Starting from scratch definitely was the hardest part with this project. There i
 
 To me, this is what my code looked like about halfway through. The process I had taken to put together the application was not nearly as time consuming as one would think. Enter the world of errors. Iteration over the HTML pages and creating tasks for the program to execute given POST data didn't go half bad. Environment errors and maintaining updated and correct data that was being shared between my colleagues and I were the tedious, and usually unexpected, faults.
 
-![Input Form](/assets/img/my_web.png){: .mx-auto.d-block :}
-
 Quickly enough (two or three days in), we had everything mostly functioning. My colleagues had continued improve on their models for more accurate pricing results. In the meantime, I had been going back and forth to present a more beautiful website and muster up a better way to navigate. Flask is very useful framework for this kind of project, but it doesn't come without it's complications as well. For our models and as a piece in our puzzle of tasks, a database was required to hold user input. Therefore, database management was a headache of a task. The database became central to our overall funcionality. Due to this discovery, the remaining tasks sailed smoothly towards the finish line. Our final product functioned well and help up once deployed on Heroku.
 
 ## Not Done Yet
 
 While we approached the end of the week, I had began some tasks on my own looking for a few sources of extra credit. Since they weren't completed in the time frame, this project has continued to be a learning experience for me. Since submission, I have been working on new phases of the site for a more sophiscated entity. A new function now allows a user to query their old properties based on their email. Account/login setup in a framework is something I have dealt with before on another project, so now I am looking for new challenges and, in this case, a more complex database schema fills that criterion.
+
+![Input Form](/assets/img/my_web.png){: .mx-auto.d-block :}
 
 **CONCLUSIONS**
 
