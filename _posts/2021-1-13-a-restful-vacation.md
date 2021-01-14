@@ -26,8 +26,9 @@ The prospect of building most of the functionality of a deployable web applicati
 
 Starting from scratch definitely was the hardest part with this project. There is a blank canvas waiting for you in your text editor and uou can take it in so many directions. Needing to get some momentum, however, I quickly put together the overall data and file structure of our project. Crafting some basic HTML pages that would link to the foundational URL endpoints was my first job. Tasks such as prepping a virtual environment and setting up a GitHub organization were ones I had dealt with in the past and therefore were completed fairly quickly. 
 
-![Brewery](/assets/img/brewery.jpeg)
+![Code](/assets/img/code.jpg)
 
+To me, this is what my code looked like about halfway through. The process I had taken to put together the application was not nearly as time consuming as one would think. Enter the world of errors. Iteration over the HTML pages and creating tasks for the program to execute given POST data didn't go half bad. Environment errors and maintaining updated and correct data that was being shared between my colleagues and I were the tedious, and usually unexpected, faults.
 
 ## Putting It All Together
 
@@ -42,4 +43,4 @@ Starting from scratch definitely was the hardest part with this project. There i
 This web application was created with the intention of allowing a user who is interested in renting out a property as an AirBnB to enter their information and get back a predicted rent result for their property. A simple user-interface allows them to input only a few details and will immmediatly return results. In addition, a helpful search bar can help them navigate to other properties they have entered in the app. Take a look, click around and best of luck!
 
 - Check out the code [here](https://github.com/dakotagporter/airbnb).
-- Visit the website [here](url).
+- Visit the website [here] **in progress**.
