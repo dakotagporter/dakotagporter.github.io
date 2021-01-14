@@ -34,21 +34,15 @@ To me, this is what my code looked like about halfway through. The process I had
 
 ![Input Form](/assets/img/my_web.png){: .mx-auto.d-block :}
 
-Quickly enough (two or three days in), we had everything mostly functioning. My colleagues had continued improve on their models for more accurate pricing results. In the meantime, I had been going back and forth to present a more beautiful website and muster up a better way to navigate. Flask is very useful framework for this kind of project, but it doesn't come without it's complications as well. For our models and as a piece in our puzzle of tasks, a database was required to hold user input. Therefore, database management was a headache of a task. The database became central to our overall funcionality. Once a user enters information on their property, it gets stored in the database.
-
-When the due date entered the room (very suddenly at that), our mission was accomplished 
+Quickly enough (two or three days in), we had everything mostly functioning. My colleagues had continued improve on their models for more accurate pricing results. In the meantime, I had been going back and forth to present a more beautiful website and muster up a better way to navigate. Flask is very useful framework for this kind of project, but it doesn't come without it's complications as well. For our models and as a piece in our puzzle of tasks, a database was required to hold user input. Therefore, database management was a headache of a task. The database became central to our overall funcionality. Due to this discovery, the remaining tasks sailed smoothly towards the finish line. Our final product functioned well and help up once deployed on Heroku.
 
 ## Not Done Yet
 
-
-
-![ABV zoom](/assets/img/abv_zoom.png) 
-
-
+While we approached the end of the week, I had began some tasks on my own looking for a few sources of extra credit. Since they weren't completed in the time frame, this project has continued to be a learning experience for me. Since submission, I have been working on new phases of the site for a more sophiscated entity. A new function now allows a user to query their old properties based on their email. Account/login setup in a framework is something I have dealt with before on another project, so now I am looking for new challenges and, in this case, a more complex database schema fills that criterion.
 
 **CONCLUSIONS**
 
-This web application was created with the intention of allowing a user who is interested in renting out a property as an AirBnB to enter their information and get back a predicted rent result for their property. A simple user-interface allows them to input only a few details and will immmediatly return results. In addition, a helpful search bar can help them navigate to other properties they have entered in the app. Take a look, click around and best of luck!
+This web application was created with the intention of allowing a user who is interested in renting out a property as an AirBnB to enter their information and get back a predicted rent result for their property. A growing user-interface allows them to input only a few details and will immmediatly return results. In addition, a helpful search bar can help them navigate to other properties they have entered in the app. Take a look, click around and best of luck!
 
 - Check out the code [here](https://github.com/dakotagporter/airbnb).
 - Visit the website [here] **in progress**.
