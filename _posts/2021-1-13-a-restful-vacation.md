@@ -28,11 +28,13 @@ The prospect of building most of the functionality of a deployable web applicati
 
 Starting from scratch definitely was the hardest part with this project. There is a blank canvas waiting for you in your text editor and uou can take it in so many directions. Needing to get some momentum, however, I quickly put together the overall data and file structure of our project. Crafting some basic HTML pages that would link to the foundational URL endpoints was my first job. Tasks such as prepping a virtual environment and setting up a GitHub organization were ones I had dealt with in the past and therefore were completed fairly quickly. 
 
-![Code](/assets/img/code.jpg)
+![Code](/assets/img/code.jpg){: .mx-auto.d-block :}
 
 To me, this is what my code looked like about halfway through. The process I had taken to put together the application was not nearly as time consuming as one would think. Enter the world of errors. Iteration over the HTML pages and creating tasks for the program to execute given POST data didn't go half bad. Environment errors and maintaining updated and correct data that was being shared between my colleagues and I were the tedious, and usually unexpected, faults.
 
-Quickly enough (two or three days in), we had everything mostly functioning. My colleagues had continued improve on their models for more accurate pricing results. In the meantime, I had been going back and forth to present a more beautiful website and muster up a better way to navigate. Flask is very useful framework for this kind of project, but it doesn't come without it's complications as well. For our models and as a piece in our puzzle of tasks, a database was required to hold user input. Therefore, database management was a headache of a task. The database became central to our overall funcionality. 
+![Input Form](/assets/img/my_web.png){: .mx-auto.d-block :}
+
+Quickly enough (two or three days in), we had everything mostly functioning. My colleagues had continued improve on their models for more accurate pricing results. In the meantime, I had been going back and forth to present a more beautiful website and muster up a better way to navigate. Flask is very useful framework for this kind of project, but it doesn't come without it's complications as well. For our models and as a piece in our puzzle of tasks, a database was required to hold user input. Therefore, database management was a headache of a task. The database became central to our overall funcionality. Once a user enters information on their property, it gets stored in the database.
 
 When the due date entered the room (very suddenly at that), our mission was accomplished 
 
@@ -40,7 +42,7 @@ When the due date entered the room (very suddenly at that), our mission was acco
 
 
 
-![ABV graph](/assets/img/abv.png)             ![ABV zoom](/assets/img/abv_zoom.png) 
+![ABV zoom](/assets/img/abv_zoom.png) 
 
 
 
