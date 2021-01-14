@@ -3,7 +3,7 @@ layout: post
 title: Code on-the-go!
 subtitle: Flask-API work by Dakota Porter
 cover-img: /assets/img/tap.jpg
-thumbnail-img: /assets/img/square-beer.png
+thumbnail-img: /assets/img/airbnb.jpg
 share-img: /assets/img/cheers.png
 tags: [api, flask, web application, airbnb]
 ---
