@@ -14,7 +14,7 @@ I could use a vacation right about now. With a resource like AirBnB, the process
 
 With my position of "full-time student at Lambda School", it's not surprising how a project like this landed in my lap. It's also not surprising that the second this mission was given, I didn't hesitate to accept it. Having been just over halfway through my journey at Lambda, it was about time a task of this magnitude came my way; a very real-world application with my hands fully on the wheel. With a paragraph or two of context and a rubric that was only there to make sure I had the bare minimum, this true portfolio piece was the perfect way to kick-off what I had learned in the months prior.
 
-**Disclaimer:** This post is fairly technical in vernacular. So to anyone non-technical, feel free to read through, as it may not be overly complex to understand. If you desire to not be bored to death, you are more than welcome to just visit the wbsite. The link is at the bottom of the page. 
+**Disclaimer:** This post is fairly technical in vernacular. So to anyone non-technical, feel free to read through, as it may not be overly complex to understand. If you desire to not be bored to death, you are more than welcome to just visit the website. The link is at the bottom of the page. 
 
 ## The Task
 
@@ -32,7 +32,11 @@ Starting from scratch definitely was the hardest part with this project. There i
 
 To me, this is what my code looked like about halfway through. The process I had taken to put together the application was not nearly as time consuming as one would think. Enter the world of errors. Iteration over the HTML pages and creating tasks for the program to execute given POST data didn't go half bad. Environment errors and maintaining updated and correct data that was being shared between my colleagues and I were the tedious, and usually unexpected, faults.
 
-## Putting It All Together
+Quickly enough (two or three days in), we had everything mostly functioning. My colleagues had continued improve on their models for more accurate pricing results. In the meantime, I had been going back and forth to present a more beautiful website and muster up a better way to navigate. Flask is very useful framework for this kind of project, but it doesn't come without it's complications as well. For our models and as a piece in our puzzle of tasks, a database was required to hold user input. Therefore, database management was a headache of a task. The database became central to our overall funcionality. 
+
+When the due date entered the room (very suddenly at that), our mission was accomplished 
+
+## Not Done Yet
 
 
 
