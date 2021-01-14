@@ -2,7 +2,7 @@
 layout: post
 title: Code on-the-go!
 subtitle: Flask-API work by Dakota Porter
-cover-img: /assets/img/tap.jpg
+cover-img: /assets/img/travel.png
 thumbnail-img: /assets/img/airbnb.jpg
 share-img: /assets/img/cheers.png
 tags: [api, flask, web application, airbnb]
@@ -10,7 +10,7 @@ tags: [api, flask, web application, airbnb]
 
 
 
-![Flight](/assets/img/national-beer-day-ipa.jpg){: .mx-auto.d-block :}
+![Flight](/assets/img/lux_airbnb.jpg){: .mx-auto.d-block :}
 
 The self-proclaimed "go-to resource for beer", a website known as [Beer Advocates](https://www.beeradvocate.com/), contains all your resources for beer descriptions and discussions. Even you can take part in the brawl of the brews. Beer Advocates is the home for millions of ratings and reviews on any beer you could possibly imagine.
 
