@@ -14,6 +14,8 @@ I could use a vacation right about now. With a resource like AirBnB, the process
 
 With my position of "full-time student at Lambda School", it's not surprising how a project like this landed in my lap. It's also not surprising that the second this mission was given, I didn't hesitate to accept it. Having been just over halfway through my journey at Lambda, it was about time a task of this magnitude came my way; a very real-world application with my hands fully on the wheel. With a paragraph or two of context and a rubric that was only there to make sure I had the bare minimum, this true portfolio piece was the perfect way to kick-off what I had learned in the months prior.
 
+**Disclaimer:** This post is fairly technical in vernacular. So to anyone non-technical, feel free to read through, as it may not be overly complex to understand. If you desire to not be bored to death, you are more than welcome to just visit the wbsite. The link is at the bottom of the page. 
+
 ## The Task
 
 The goal behind this project was ultimately teamwork and communication. No doubt, it was a test of my knowledge and skillset, but being required to work with a group, rather than individually, made this a great challenge. The plan was to divide up the project's tasks among the group and delve into a real-world work flow. My task was creating the API (application programming interface or back-end) for our web application. Wanting to spread my wings, I did much of the front-end work as well (mainly in the form of HTML and a sprinkle of CSS).
