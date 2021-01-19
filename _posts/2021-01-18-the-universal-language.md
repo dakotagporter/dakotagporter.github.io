@@ -25,3 +25,4 @@ Deciphering these concepts is clearly not a task everyone knwos how to do.
 The theory of timelessness has now become a time stamp.
 
 reality defined by math: relativity/comparisons, time, foundations/familiarity, words, logic
+metaphorical asypmtote; get infinitely close but never converge
