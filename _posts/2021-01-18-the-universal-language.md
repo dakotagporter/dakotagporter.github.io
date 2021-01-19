@@ -14,6 +14,13 @@ picture
 
 Whether we believe the universe to have formed 13,800,000,000 years ago or in 7 days by God, we find ourselves on this "Pale Blue Dot" with a conscious seeking to determine our greater purpose. Specialists from various subject matters and diverging backgrounds parley in attempts to evaluate our reality; to discover what it is to be human. Spectacularly, we still don't have any conclusive results. Perhaps a culmination of this, seemingly circular, research is either inattainable or would be better left undefined. After all, it's entirely possible that our human errors could, in fact, subtract from what we _do_ know. So...what do we know then?
 
-Putting 100,000,000,000 neurons to good use, I can tell you that, at 9:47p.m., I remain an average distance of about 93,000,000 miles from the sun. I know that out of 7,500,000,000 people in the world, I am one of many who has 5 fingers on each hand and 5 toes on each foot. 
+Putting 100,000,000,000 neurons to good use, I can tell you that, at 9:47p.m., I remain an average distance of about 93,000,000 miles from the sun. I know that out of 7,500,000,000 people in the world, I am one of many who has 5 fingers on each hand and 5 toes on each foot. These facts specify what it is to be me and can actually characterize many others given the vague approach to the measurements I have chosen. In order to abstract myself further from the general population, I must define particular metrics that will allow for the evaluation of relativity between myself and the people around me. I weigh 160 pounds and stand about 5 feet 10 inches. I have 16 tattoos on my left arm and 77,652 miles on my car. Whoever _I_ am, now differs from what we know to be everyone else.
 
-timeless has become a time stamp.
+### | _What defines you?_ |
+
+I challenge you to answer this question devoid of numeric representation. Give me an idea (as specfic as possible) of who you are apart from the residual public without any form of quantification. Free of visual depiction, it's nearly impossible to construct a personal rendition of an object planted in my reality. Comparison
+
+Deciphering these concepts is clearly not a task everyone knwos how to do.
+The theory of timelessness has now become a time stamp.
+
+reality defined by math: relativity/comparisons, time, foundations/familiarity, words, logic
