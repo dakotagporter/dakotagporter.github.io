@@ -12,6 +12,8 @@ Consider a world without barriers. Conflict resolves with a single gesture. Hesi
 
 picture
 
-Whether we believe the universe to have formed 13.8 billion years ago or in 7 days by God, we find ourselves on this "Pale Blue Dot" with a conscious seeking to determine our greater purpose. Specialists from various subject matters and diverging backgrounds parley in attempts to define our reality; to discover what it is to be human. 
+Whether we believe the universe to have formed 13,800,000,000 years ago or in 7 days by God, we find ourselves on this "Pale Blue Dot" with a conscious seeking to determine our greater purpose. Specialists from various subject matters and diverging backgrounds parley in attempts to evaluate our reality; to discover what it is to be human. Spectacularly, we still don't have any conclusive results. Perhaps a culmination of this, seemingly circular, research is either inattainable or would be better left undefined. After all, it's entirely possible that our human errors could, in fact, subtract from what we _do_ know. So...what do we know then?
+
+Putting 100,000,000,000 neurons to good use, I can tell you that, at 9:47p.m., I remain an average distance of about 93,000,000 miles from the sun. I know that out of 7,500,000,000 people in the world, I am one of many who has 5 fingers on each hand and 5 toes on each foot. 
 
 timeless has become a time stamp.
