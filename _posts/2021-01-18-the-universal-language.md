@@ -18,6 +18,7 @@ Putting 100,000,000,000 neurons to good use, I can tell you that, at 9:47p.m., I
 
 ### | _What defines you?_ |
 
+
 I challenge you to answer this question devoid of numeric representation. Give me an idea (as specfic as possible) of who you are apart from the residual public without any form of quantification. Free of visual depiction, it's nearly impossible to construct a personal rendition of an object planted in my reality. Comparison
 
 Deciphering these concepts is clearly not a task everyone knwos how to do.
