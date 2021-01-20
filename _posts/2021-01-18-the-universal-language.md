@@ -3,7 +3,7 @@ layout: post
 title: The Universal Language
 subtitle: Life's Calculations by Dakota Porter
 cover-img: /assets/img/
-thumbnail-img: /assets/img/
+thumbnail-img: /assets/img/sunset_blur.jpeg
 share-img: /assets/img/
 tags: [math, life, calculations, curiosity]
 ---
@@ -16,7 +16,7 @@ Whether we believe the universe to have formed 13,800,000,000 years ago or in 7 
 
 Putting 100,000,000,000 neurons to good use, I can tell you that, at 9:47p.m., I remain an average distance of about 93,000,000 miles from the sun. I know that out of 7,500,000,000 people in the world, I am one of many who has 5 fingers on each hand and 5 toes on each foot. These facts specify what it is to be me but can actually characterize many others given the vague approach to the measurements I have chosen. In order to abstract myself further from the general population, I must define particular metrics that will allow for the evaluation of relativity between myself and the people around me. I weigh 160 pounds and stand about 5 feet 10 inches. I have 16 tattoos on my left arm and 77,652 miles on my car. Whoever _I_ am, now differs from what we know to be everyone else.
 
-<div align="center"> >>### | _What defines you?_ | </div>
+<div align="center"> > ### | _What defines you?_ | </div>
 
 
 I challenge you to answer this question devoid of numeric representation. Give me an idea (as specfic as possible) of who you are apart from the residual public without any form of quantification. Free of visual depiction, it's nearly impossible to construct a personal rendition of an object planted in my reality. Comparison
