@@ -16,15 +16,13 @@ Whether we believe the universe to have formed 13,800,000,000 years ago or in 7 
 
 Putting 100,000,000,000 neurons to good use, I can tell you that, at 9:47p.m., I remain an average distance of about 93,000,000 miles from the sun. I know that out of 7,500,000,000 people in the world, I am one of many who has lived through 365 days of the year 2020. These facts specify what it is to be me but can actually characterize many others given the vague approach to the measurements I have chosen. In order to abstract myself further from the general population, I must define particular metrics that will allow for the evaluation of relativity between myself and the people around me. I weigh 160 pounds and stand about 5 feet 10 inches. I have 16 tattoos on my left arm and 77,652 miles on my car. Whoever _I_ am, now differs from what we know to be everyone else. I now challenge you to answer this question devoid of numeric representation. Give me an idea (as specfic as possible) of who you are apart from the residual public without any form of quantification. Free of visual depiction, it's nearly impossible to construct a personal rendition of an object planted in my reality. Any true results of a task like this would only produce the most vague of understandings.
 
-![Reality](/assets/img/reality.jpg)
+<img src="/assets/img/reality.jpg" alt="Reality" width=100%>
 
 <p align="center" markdown='1'> **| _What defines you?_ |** </p>
 
 The universe and what we know to exist within it was, and is, meant to be quantified. A little thing known as **time** uses the combination of integers and other symbols to produce a convenient tracking system for our progress on this Earth. Logic, a branch of mathematics, allowed Aristotle to shape [philosophy](https://www.biography.com/scholar/aristotle) as we know it. Linguistics, more often than not, don't see mathematical quantification as a mere transcription of what a language can be but rather a syntactical representation for pre-defined subject matter. The opposite is true, however. According to Marriam-Webster, [language](https://www.merriam-webster.com/dictionary/language) involves "words, their pronunciation, and the methods of combining them used and understood by a community." The development of arithmetic since the years B.C. have similarly been an iteration of conventional, structured symbols used in combination to convey meanings and this practice was no doubt widely understood as well. For a cohesive language to exist, the specific permutations and overall scaffolding require an interpretation to be associated to it. Otherwise, the mess of spoken sounds and their written counterparts would be futile. The application of well-known logical operators (+, -, x, ÷) can only be coined productive if we tag them with a similar interpretation. We constructed a number system based on the amount of fingers we have. An argument could be made that mathematics is just a field of study meant to explain our reality and, to a degree, I would have to admit that to be valid. However, through experimentation and calculation of one natural process, additional processes continue to align with our findings.
 
-Are the well known logical operators  not conventional symbols
-
-<div align="center" markdown='1'> **| _Math is more than justification; it is alive._ |**
+<p align="center" markdown='1'> **| _Math is more than justification; it is alive._ |** </p>
 
 
 
