@@ -4,7 +4,7 @@ title: The Universal Language
 subtitle: Life's Calculations by Dakota Porter
 cover-img: /assets/img/digital_lake.png
 thumbnail-img: /assets/img/sunset_blur.jpeg
-share-img: /assets/img/
+share-img: /assets/img/sunset_la.jpg
 tags: [math, life, calculations, curiosity]
 ---
 
