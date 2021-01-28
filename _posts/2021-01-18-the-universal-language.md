@@ -2,7 +2,7 @@
 layout: post
 title: The Universal Language
 subtitle: Life's Calculations by Dakota Porter
-cover-img: /assets/img/fractal.png
+cover-img: /assets/img/digital_lake.png
 thumbnail-img: /assets/img/sunset_blur.jpeg
 share-img: /assets/img/
 tags: [math, life, calculations, curiosity]
@@ -18,13 +18,13 @@ Putting 100,000,000,000 neurons to good use, I can tell you that, at 9:47p.m., I
 
 ![Reality](/assets/img/reality.jpg)
 
-<div align="center" markdown='1'> **| _What defines you?_ |** </div>
+<div align="center" markdown='1'> **| _What defines you?_ |**
 
 The universe and what we know to exist within it was, and is, meant to be quantified. A little thing known as **time** uses the combination of integers and other symbols to produce a convenient tracking system for our progress on this Earth. Logic, a branch of mathematics, allowed Aristotle to shape [philosophy](https://www.biography.com/scholar/aristotle) as we know it. Linguistics, more often than not, don't see mathematical quantification as a mere transcription of what a language can be but rather a syntactical representation for pre-defined subject matter. The opposite is true, however. According to Marriam-Webster, [language](https://www.merriam-webster.com/dictionary/language) involves "words, their pronunciation, and the methods of combining them used and understood by a community." The development of arithmetic since the years B.C. have similarly been an iteration of conventional, structured symbols used in combination to convey meanings and this practice was no doubt widely understood as well. For a cohesive language to exist, the specific permutations and overall scaffolding require an interpretation to be associated to it. Otherwise, the mess of spoken sounds and their written counterparts would be futile. The application of well-known logical operators (+, -, x, ÷) can only be coined productive if we tag them with a similar interpretation. We constructed a number system based on the amount of fingers we have. An argument could be made that mathematics is just a field of study meant to explain our reality and, to a degree, I would have to admit that to be valid. However, through experimentation and calculation of one natural process, additional processes continue to align with our findings.
 
 Are the well known logical operators  not conventional symbols
 
-<div align="center" markdown='1'> **| _Math is more than justification; it is alive._ |** </div>
+<div align="center" markdown='1'> **| _Math is more than justification; it is alive._ |**
 
 
 
