@@ -1,12 +1,13 @@
 ---
 layout: post
-title: The Universal Language: Uncovered
+title: The Universal Language Uncovered
 subtitle: Life's Calculations by Dakota Porter
 cover-img: /assets/img/digital_lake.png
 thumbnail-img: /assets/img/sunset_blur.jpeg
 share-img: /assets/img/sunset_la.jpg
 tags: [math, life, calculations, curiosity]
 ---
+
 <style type="text/css">
 .image-left {
   display: block;
