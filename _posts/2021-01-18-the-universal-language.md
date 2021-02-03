@@ -28,7 +28,7 @@ Whether we believe the universe to have formed 13,800,000,000 years ago or in 7 
 
 Putting 100,000,000,000 neurons to good use, I can tell you that, at 9:47p.m., I stand average distance of 93,000,000 miles from the sun. I know that out of 7,500,000,000 people in the world, I am one of many who have lived through all 365 days of the year 2020. These facts specify what it is to be me but can actually characterize many others given the vague approach to the measurements I have chosen. In order to abstract myself further from the general population, I must define particular metrics that will allow for the evaluation of myself relative to the people around me. I weigh 160 pounds and stand about 5 feet 10 inches (I'm working on my BMI, I promise). I have 16 tattoos on my left arm and 77,652 miles on my car. _I_ now differ from what we know to be everyone else. I now challenge you to similarly evaluate yourself but devoid of numeric representation. Give me an idea (as specfic as possible) of who you are apart from the residual public lacking any form of quantification or mathematical terminology. Free of pure visual depiction, it's nearly impossible to construct a personal rendition of an object planted in one's reality. Any true results of this task would only produce the most vague of visualizations.
 
-![Reality](/assets/img/reality.jpg){: .image-left }
+![Reality](/assets/img/reality.jpg){: .image-left } Hello
 
 <p align="center" markdown='1'> **| _The universe and what we know to exist within it was, and is, meant to be quantified._ |** </p>
 
