@@ -16,7 +16,6 @@ tags: [math, life, calculations, curiosity]
   float: right;
 }
 </style>
-{: .image-left }
 
 Consider a world without barriers. Conflict resolves with a pencil and paper. Hesitation and anxiety ease because the threat of miscommunication has dissapated. Herein lies the concept of _the universal language_. The idea that the infeasiblility of global understanding is only a mirage created by the ambiguity of translation. Some believe this language (known as [Esperanto](https://www.npr.org/sections/goatsandsoda/2015/06/13/413968033/esperanto-is-not-dead-can-the-universal-language-make-a-comeback)) has dated back over 100 years. Others see [love](https://loverevolutionblog.com/kindness-the-universal-language-of-love/) or kindess as a dialect of this claim. A more common theory simply states that there is simply [no such thing](https://www.vice.com/en/article/ezpvx4/why-humans-dont-have-a-universal-language). However, I believe the solution to this debate has already been procured and has been evolving since the dawn of time. Unfortunately, it's just not as recognizable as we would think.
 
