@@ -28,7 +28,6 @@ Now don't worry, for those who know exactly what they're looking for don't have 
 
 What makes this app so fascinating is the functionality of the back-end. While my colleague designed seamless transitions between website endpoints and quick runtime while procuring results, I have expressed machine learning practices to retrieve user input and return desired outcomes. Specifically, Natural Language Processing accomplishes these tasks. A user-provided description is stored and manipulated for use during retrieval. The same process is done on the entirety of our data. During calculation, all of the strain descriptions (which are now represented numerically) are mapped out in space. Taking the user's description, we can now compare results and discover what strains can fulfill everything the user is asking for. A simple, yet productive model such as what I have implemented can harness so much power to make certain processes so much easier while remaining very accurate.
 
-
-
 Visit the website [here](https://the-med-cabinet.herokuapp.com/).
+
 View the code [here](https://github.com/lambda-med-cabinet/med-cabinet).
