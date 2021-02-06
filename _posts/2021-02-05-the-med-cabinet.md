@@ -16,10 +16,14 @@ In a second round of [API work](https://dakotagporter.github.io/2021-01-13-a-res
 
 ![The Med Cabinet](/assets/img/medcabinet.png)
 
+## 'High'ly Simplified
+
 Off the bat, it's easy to list the things that weigh us down in our day to day lives. Back pain, restlessness and many other sticks in our sides can drag even the most upbeat of people to levels of pure competence. Finding solutions to these problems, however, can be quite difficult. Researching makes for a drawn out process that sometimes doesn't even lead anywhere. My partner and I have implemented various processes in our application to cut a few corners and make this task easier than can be. Our interface allows users to choose effects associated with various strains of cannabis that align with the issues they are aiming to defeat. More importantly, we have designed a description box where a user may enter a short summary of what they need help with or what they are looking for out of a strain of cannabis. As a result of these inputs, our behind-the-scenes algorithm will pull up the most accurate results to their queries. For someone who has no idea where to begin while diving in to this vast, smoky world can now explore with ease.
 
 ![X-Ray](/assets/img/xray.jpg)
 
 Now don't worry, for those who know exactly what they're looking for don't have to feel left out. If they want to just branch out or find other similar strains, we have provided a search option allowing users to search our entire data for the exact strain. In addition, a user may select from the three types of cannabis: Indica, Sativa or Hybrid amongst their search terms. These parameters can ping some more specific results aligning to a users desires. 
 
-#
+## Don't 'Leaf' Just Yet
+
+What makes this app so fascinating is the functionality of the back-end. While my colleague designed seamless transitions between website endpoints and quick runtime while procuring results, I have expressed machine learning practices to retrieve user input and return desired outcomes. Specifically, Natural Language Processing accomplishes these tasks. A user-provided description is stored and manipulated for use during retrieval. The same process is done on the entirety of our data. During calculation, all of the strain descriptions (which are now represented numerically) are mapped out in space. Taking the user's description, we can now compare results and discover what strains can fulfill everything the user is asking for. A simple, yet productive model such as what I have implemented can harness so much power to make certain processes so much easier while remaining very accurate.
