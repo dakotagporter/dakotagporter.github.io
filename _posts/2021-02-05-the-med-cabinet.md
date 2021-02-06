@@ -21,3 +21,5 @@ Off the bat, it's easy to list the things that weigh us down in our day to day l
 ![X-Ray](/assets/img/xray.jpg)
 
 Now don't worry, for those who know exactly what they're looking for don't have to feel left out. If they want to just branch out or find other similar strains, we have provided a search option allowing users to search our entire data for the exact strain. In addition, a user may select from the three types of cannabis: Indica, Sativa or Hybrid amongst their search terms. These parameters can ping some more specific results aligning to a users desires. 
+
+#
