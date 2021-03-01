@@ -55,7 +55,4 @@ Number systems were created to allow for symbolic representation of quantity and
 ![Fibonnaci](/assets/img/fib.jpg)
 <p align="center" markdown='1'> **| _Math is more than justification; it is alive._ |** </p>
 
-Deciphering abstractions of this nature is not a task stationed in everyone's skillset. This results in my claim being exceedingly undermined and gives reason to why I'm trying to garner more attention to it. It's beautiful to see the quantification and mathmatical representations of the world around us and how they play such an integral role in creating our reality. At this very moment, our reality continues to change. The universe is not timeless; it's a linear increase of infinitely small points in time that make up a steady stream of progression. It's our responsibility to flow with this continuance. 
-
-
-The theory of timelessness has now become a time stamp.
+Deciphering abstractions of this nature is not a task stationed in everyone's skillset. This results in my claim being exceedingly undermined and gives reason to why I'm trying to garner more attention to it. It's beautiful to see the quantification and mathmatical representations of the world around us and how they play such an integral role in creating our reality. At this very moment, our reality continues to change. We are not timeless; it's a linear increase of infinitely small points in time that make up a steady stream of progression. It's our responsibility to flow with the continuity . 
